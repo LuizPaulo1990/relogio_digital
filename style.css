@@ -85,7 +85,7 @@ div span.text {
         justify-content: space-around;
         align-items: center;
         width: 200px;
-        height: 600px;
+        height: 100vh;
         background-image: linear-gradient(120deg, rgb(246, 198, 7)20%,rgb(255, 140, 0)30%,rgb(250, 2, 2));
         border-radius: 20px;
         box-shadow: 5px 2px 14px 0px black;
