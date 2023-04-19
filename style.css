@@ -67,7 +67,7 @@ div span.text {
 }
 
 
-@media screen and (max-width: 400px) {
+@media screen and (max-width: 600px) {
     body{
         background-image: linear-gradient(120deg, rgb(246, 198, 7)20%,rgb(255, 140, 0)30%,rgb(250, 2, 2));
         width: 100%;
