@@ -1,3 +1,65 @@
 body{
-    background-image: linear-gradient(45deg,#000,#00ff00);
+    background-image: linear-gradient(132deg, rgb(246, 198, 7)20%,rgb(255, 140, 0)30%,rgb(250, 2, 2));
+    width: 100vh;
+    height: 100vh;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#card{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 600px;
+    height: 200px;
+    background-image: linear-gradient(132deg, rgb(246, 198, 7)20%,rgb(255, 140, 0)30%,rgb(250, 2, 2));
+    border-radius: 20px;
+    box-shadow: 5px 2px 14px 0px black;
+
+}
+
+#hour{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+    width: 27%;
+    height: 80%;
+    border-radius: 10px;
+}
+
+#minute{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+    width: 27%;
+    height: 80%;
+    border-radius: 10px;
+}
+
+#seconds{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+    width: 27%;
+    height: 80%;
+    border-radius: 10px;
+}
+
+div h1{
+    color: white;
+    font-size: 5rem;
+    margin-bottom: 20px;
+}
+
+div p {
+    color: aquamarine;
+    font-size: 1.5rem;
 }
